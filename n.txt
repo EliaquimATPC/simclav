@@ -1,0 +1,7 @@
+under the choosing option show the Current Weather
+using open meto ""
+Temperature (2 m)
+Precipitation
+Wind Speed (10 m)
+Wind Direction (10 m)
+Wind Gusts (10 m)
